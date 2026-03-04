@@ -48,8 +48,10 @@ Crypto trading platform with real-time WebSocket data, TradingView charts, order
 
 ---
 
+
 ## Let's Connect
 
 [Upwork](https://www.upwork.com/freelancers/mykhaylo) | [Telegram](https://t.me/mykhayloyuminov) | Bratislava, Slovakia
-## Experience Highlights
+## Let's Connect
 
+[Upwork](https://www.upwork.com/freelancers/mykhaylo) | [Telegram](https://t.me/mykhayloyuminov) | Bratislava, Slovakia
